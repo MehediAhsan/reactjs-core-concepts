@@ -36,3 +36,38 @@
     transform: rotate(360deg);
   }
 }
+
+
+.container{
+  color: black;
+  background-color: aqua;
+  border: 1px solid black;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 3px;
+}
+.player{
+  color: black;
+  background-color: khaki;
+  border: 1px solid black;
+  margin: 5px;
+  padding: 10px;
+  border-radius: 3px;
+}
+
+.user{
+  color: black;
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 3px;
+  background-color: bisque;
+  width: 500px;
+  margin: 0 auto;
+  margin-bottom: 5px;
+}
+
+button{
+  padding: 5px;
+  margin: 5px;
+  cursor: pointer;
+}
